@@ -14,6 +14,8 @@ I am interested in learning Mobile developing.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
+- 👨‍💻 All of my projects are available at [BekFlutterDev](https://github.com/BekFlutterDev)
+- 📝 I regularly write articles on my telegram blog [Asadbek blog](https://t.me/https://t.me/asadbek_blog1)
 - 🔭 I’m currently open to work in Tashkent onsite and remote.
 - 🌱 I’m currently learning clean architecture.
 - 👯 I’m looking to collaborate with companies to impore my experience.
