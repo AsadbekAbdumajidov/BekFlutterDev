@@ -1,6 +1,6 @@
 # AsadbekFlutterDeveloper
 
-### Hi there "https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif"
+### Hi there <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px">
 
 ## I'm Asadbek.
 
