@@ -30,7 +30,7 @@ I am interested in learning Mobile developing.
 
 
 
-### 💻 Stack I Work With
+<!-- ### 💻 Stack I Work With
 
 <br>
 
@@ -76,7 +76,7 @@ I am interested in learning Mobile developing.
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 &nbsp;
 </p>
-<br>
+<br> -->
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
