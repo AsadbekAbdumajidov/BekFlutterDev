@@ -35,12 +35,12 @@ I am interested in learning Mobile developing.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align=centr>
+<div align=Centr>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
     
 <!-- retro visitor counter -->  
-<p align="centr" >   
+<p align="Centr" >   
   <img src="https://profile-counter.glitch.me/BekFlutterDev/count.svg" />  
 </p>
    
@@ -48,7 +48,7 @@ I am interested in learning Mobile developing.
   
   
   <br>
-  <p align="centr">
+  <p align="Centr">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
