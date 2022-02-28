@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> I'm Abdumajidov Asadbek</h1>
-<h3 align="center">A passionate full-stack Flutter developer <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/PC.gif" height="20px"/> from Tashkent</h3>
+<h1 align="left">Hi <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> I'm Abdumajidov Asadbek</h1>
+<h3 align="left">A passionate full-stack Flutter developer <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/PC.gif" height="20px"/> from Tashkent</h3>
 
 ### 💻 &nbsp;About Me 
 
