@@ -34,18 +34,7 @@ I am interested in learning Mobile developing.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alijonxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alijonxr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alixurshetov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali xurshetov" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16712877/alijon-xurshetov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Asadbek Abdumajidov" height="30" width="40" /></a>
-<a href="https://fb.com/ali.xurshetov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali xurshetov" height="30" width="40" /></a>
-<a href="https://instagram.com/alijon.xr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alijon.xr" height="30" width="40" /></a>
-<a href="https://alixr.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alixr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UClPxuovwBtUJ_o8Ph5qTkgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alijon xurshetov" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alijonxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alijonxr" height="30" width="40" /></a>
-</p>
+
 <br>
   
 <div align=left>
