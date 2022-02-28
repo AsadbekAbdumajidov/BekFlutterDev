@@ -48,7 +48,7 @@ I am interested in learning Mobile developing.
 </p>
 <br>
   
-<div align=center>
+<div align=left>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
     
