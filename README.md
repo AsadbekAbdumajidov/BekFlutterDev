@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-## I'm Abdulloh.
+## I'm Asadbek.
 
 ### 💻 &nbsp;About Me 
 
@@ -112,13 +112,13 @@ I am interested in learning Mobile developing.
 <p align="center">
 </a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abdulloh-abduxalilov-1a37bb21a/" target="_blank">
-  <img align="center" alt="Abdulloh Foziljonov| Linkedin" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="Asadbek Abdumajidov| Linkedin" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://abdullohabduxalilov1982@gmail.com/" >
-  <img align="center" alt="Abdulloh Abduxalilov| Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+<a href="https://asadbekabdumajidov7@gmail.com/" >
+  <img align="center" alt="Asadbek Abdumajidov| Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/abdulloh.abduxalilov.3">
-    <img align="center" alt="Abdulloh Abduxalilov| Telegram" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+    <img align="center" alt="Asadbek Abdumajidov| Telegram" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
   
@@ -130,7 +130,7 @@ I am interested in learning Mobile developing.
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/AbdullohFlutterDeveloper/count.svg" />  
+  <img src="https://profile-counter.glitch.me/BekFlutterDev/count.svg" />  
 </p>
    
   
@@ -155,9 +155,9 @@ I am interested in learning Mobile developing.
 
 ------
 
-[Abdulloh_Abduxalilov](https://github.com/AbdullohFlutterDeveloper)
+[Asadbek Abdumajidov](https://github.com/BekFlutterDev)
 
-Last Edited on: 23/01/2022
+Last Edited on: 28/02/2022
 
 
 ------
