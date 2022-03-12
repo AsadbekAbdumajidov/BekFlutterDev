@@ -8,9 +8,8 @@
 
 I am a student and a Certified Flutter Developer by Najot ta'im .<br/>
 I am interested in learning Mobile developing.
-
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
-
+<img align="right" alt="GIF" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg" width="400" height="280" />
+https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg
 - 👨‍💻 All of my projects are available at [BekFlutterDev](https://github.com/BekFlutterDev)
 - 📝 I regularly write articles on my telegram blog [Asadbek blog](https://t.me/https://t.me/asadbek_blog1)
 - 📫 How to reach me **asadbekabdumajidov7@gmail.com**
