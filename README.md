@@ -13,7 +13,7 @@ I am interested in learning Mobile developing.
 - 👨‍💻 All of my projects are available at [BekFlutterDev](https://github.com/BekFlutterDev)
 - 📝 I regularly write articles on my telegram blog [Asadbek blog](https://t.me/https://t.me/asadbek_blog1)
 - 📫 How to reach me **asadbekabdumajidov7@gmail.com**
-- 🏻 My first useful app [Namoz najotdir](https://github.com/BekFlutterDev/namoz_app)
+- 🤲🏻 My first useful app [Namoz najotdir](https://github.com/BekFlutterDev/namoz_app)
 - 🔭 I’m currently open to work in Tashkent onsite and remote.
 - 🌱 I’m currently learning clean architecture.
 - 👯 I’m looking to collaborate with companies to impore my experience.
