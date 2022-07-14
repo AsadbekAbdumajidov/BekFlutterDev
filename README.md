@@ -11,7 +11,7 @@ I am interested in learning Mobile developing.
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="290" />
 
 - 👨‍💻 All of my projects are available at [BekFlutterDev](https://github.com/BekFlutterDev)
-- 📝 I regularly write articles on my telegram blog [Asadbek blog](https://t.me/https://t.me/asadbek_blog1)
+- 📝 I regularly write articles on my telegram blog [Asadbek blog](https://t.me/asadbek_blog1)
 - 📫 How to reach me **asadbekabdumajidov7@gmail.com**
 - 🤲🏻 My first useful app [Namoz najotdir](https://github.com/BekFlutterDev/namoz_app)
 - 🔭 I’m currently open to work in Tashkent onsite and remote.
