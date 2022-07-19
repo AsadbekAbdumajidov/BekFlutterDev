@@ -10,7 +10,7 @@ I am a student and a Certified Flutter Developer by Najot ta'im .<br/>
 I am interested in learning Mobile developing.
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="290" />
 
-- 👨‍💻 All of my projects are available at [BekFlutterDev](https://github.com/AsadbekAbdumajidov)
+- 👨‍💻 All of my projects are available at [AsadbekAbdumajidov](https://github.com/AsadbekAbdumajidov)
 - 📝 I regularly write articles on my telegram blog [Asadbek blog](https://t.me/asadbek_blog1)
 - 📫 How to reach me **asadbekabdumajidov7@gmail.com**
 - 🤲🏻 My first useful app [Namoz najotdir](https://github.com/BekFlutterDev/namoz_app)
